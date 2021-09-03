@@ -1,6 +1,7 @@
 # pygame.init()  ->   Game Logic   ->   pygame.quit()
 # display_surface (has width and height) -> the canvas to draw on
 # game loop -> game logic and canvas update
+# Random Comment
 
 import pygame, sys
 
